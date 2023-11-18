@@ -12,7 +12,7 @@ lpad = 8 # additional padding on the left side for month initial letters (in gri
 spacing = 18 # size of white space around the grid/dots (in points; 1 point = 0,0352777806 cm)
 dot_w = 0.1 # diameter of a grid dot
 width = 2345.1 # width of the output PDF (in points). Plus spacing*2, should give A1
-font_default = "Iosevka SS14" # default font
+font_default = "Iosevka" # default font
 font_month_letters = "Iosevka"
 month_letters = "JFMAMJJASOND" # initial letters for the months
 

@@ -1,6 +1,6 @@
 # Year Calendar
 
-[![Example](example.png)](example_2022.pdf)
+[![Example](example.png)](editionen/cal_2024.pdf)
 
 ## Install dependencies 
 
@@ -15,7 +15,7 @@ pip install pycairo pandas
 ## Generate a calendar
 
 ```bash
-python3 cal.py 2022
+python3 cal.py 2024
 ```
 
 or just `make`
